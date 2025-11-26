@@ -46,7 +46,7 @@ const App = () => {
                     <a href="https://www.instagram.com/typically_havok/">
                         <img src={instaImg} alt="Github" className="icon" />
                     </a>
-                    <a href="mailto:your.email@gmail.com">
+                    <a href="mailto:amogh.out@gmail.com">
                         <img src={mailImg} alt="Gmail" className="icon" />
                     </a>
                 </div>
